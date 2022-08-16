@@ -50,7 +50,16 @@ echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
 xdg-open https://t.me/name_dark
 echo ""
 sleep 10
-echo " create account on cashkaro.com "
+echo " create account on c "
 echo " set your browser "
+
+
+clear
+
+
+   printf "\n"
+   printf "\e[1;93m bash dark.sh\e[0m \n"
+   printf "\n"
+
 termux-open-url https://instagram.com/name__dark?igshid=YmMyMTA2M2Y=
 echo ""
