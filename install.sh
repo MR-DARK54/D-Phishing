@@ -47,10 +47,10 @@ sleep 4
 echo ""
 echo ""
 echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://www.youtube.com/channel/HYDRAGAMING4U
+xdg-open https://t.me/name_dark
 echo ""
 sleep 10
 echo " create account on cashkaro.com "
 echo " set your browser "
-termux-open-url https://cashkaro.com?r=8026255&fname=Rixon
+termux-open-url https://instagram.com/name__dark?igshid=YmMyMTA2M2Y=
 echo ""
