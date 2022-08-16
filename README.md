@@ -5,15 +5,39 @@
 # 
 # 
 ## Installation Commands ↙️
-* `apt update`
-* `apt upgrade`
-* `pkg install git`
-* `git clone https://github.com/rixon-cochi/SMF.git`
-* `cd SMF`
-* `bash install.sh`
-* `bash smf.sh`
+  
+apt update 
 
-# 
+
+apt upgrade 
+
+apt install bash
+
+
+
+git clone https://github.com/MR-DARK54/D-Phishing
+
+
+cd D-Phishing
+
+ls
+
+
+chmod +x *
+
+
+
+bash install.sh
+
+
+bash dark.sh
+
+
+
+
+
+
+# ##
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Features :
